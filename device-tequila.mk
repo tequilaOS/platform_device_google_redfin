@@ -14,5 +14,4 @@ PRODUCT_PACKAGES += \
     HbmSVManagerOverlay
 
 # PowerShare
-# To be revisited later on
-#include hardware/google/pixel/powershare/device.mk
+include hardware/google/pixel/powershare/device.mk
